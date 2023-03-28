@@ -1,9 +1,9 @@
-# Stepper Motor Circuit
-This project involves designing a circuit for controlling and monitoring a stepper motor using an A4988 driver and an LCD display. The circuit allows users to adjust the motor's speed and monitor its current speed on the display.
-
 # Stepper Motor Controller 
 
 This project is part of my Microprocessor course that I participated this semester. The main purpose of this project is to give everyone a better understanding of the STM32 chip architecture and to enhance both hardware and firmware skills. This project brings varios potential applications such as robotics, automation, and CNC machines. 
+
+![alt text](https://github.com/tathanhnam151/Stepper-Motor-Circuit/blob/main/Demo/circuit_3d.png?raw=true)
+
 It consists of a STM32F1 microcontroller, A4988 driver, buttons for mode selection, and an LCD to display the current speed of the motor.
 
 ## Hardware
